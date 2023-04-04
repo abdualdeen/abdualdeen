@@ -22,6 +22,9 @@ I am currently a Software Engineering student at the University of Nebraska - Li
             <a href="https://www.javascript.com/">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=60 alt="JavaScript">
             </a>
+             <a href="https://www.typescriptlang.org/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width=60 alt="TypeScript">
+            </a>
             <a href="https://www.w3.org/Style/CSS/Overview.en.html">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=60 alt="CSS">
             </a>

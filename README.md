@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, My name is Abdullah Hamad
+
+I am currently a Software Engineering student at the University of Nebraska - Lincoln and I will be graduating in May 2023. I have about two years of exprience working as a full stack developer at Nobl Health. I also have experience working on two year-long projects with real companies as a part of senior design, one of which you can see the work I did here in this repoistory ([RNAMake Portal React Frontend](https://github.com/ahamad2/rnamake-portal-frontend)). I enjoy working with others and finding out about their passions and what they do. 
+
+## Contact Information
+[LinkedIn](https://www.linkedin.com/in/abdullah-hamad-530a55257/)
+
 
 <!--
 **ahamad2/ahamad2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

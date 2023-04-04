@@ -6,6 +6,43 @@ I am currently a Software Engineering student at the University of Nebraska - Li
 * [LinkedIn](https://www.linkedin.com/in/abdullah-hamad-530a55257/)
 * [Resume](https://drive.google.com/file/d/1sIXq61oS_ZhjwDxb_AsBkpBKWlRYuw4p/view)
 
+### Programming langauges I am familar with
+<table align="center">
+    <tr>
+        <th>
+            <a href="https://www.python.org/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width=60 alt="Python">
+            </a>
+            <a href="https://www.php.net/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width=60 alt="PHP">
+            </a>
+            <a href="https://www.javascript.com/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=60 alt="JavaScript">
+            </a>
+            <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=60 alt="CSS">
+            </a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=60 alt="HTML">
+            </a>
+            <a href="https://www.mysql.com/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width=60 alt="MySQL">
+            </a>
+            <a href="https://www.oracle.com/java/technologies/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width=60 alt="Java">
+            </a>
+            <a href="https://en.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20(%2F%CB%88si%CB%90%2F,efficiently%20to%20typical%20machine%20instructions.">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=60 alt="C">
+            </a>
+            <a href="https://en.wikipedia.org/wiki/C++">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=60 alt="C">
+            </a>
+            <a href="https://en.wikipedia.org/wiki/Assembly_language">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/APNG_Assembler_Logo.svg" width=60 alt="Assembly">
+            </a>
+        </th>
+    </tr>
+</table>
 
 <!--
 **ahamad2/ahamad2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

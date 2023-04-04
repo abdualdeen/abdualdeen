@@ -37,6 +37,9 @@ I am currently a Software Engineering student at the University of Nebraska - Li
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=60 alt="HTML">
             </a>
+            <a href="https://jquery.com/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width=60 alt="HTML">
+            </a>
             <a href="https://www.mysql.com/">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width=60 alt="MySQL">
             </a>
@@ -56,7 +59,7 @@ I am currently a Software Engineering student at the University of Nebraska - Li
     </tr>
 </table>
 
-### technology or tools I am familar with 
+### Technology or tools I am familar with 
 <table align="center">
     <tr>
         <th>
@@ -64,7 +67,7 @@ I am currently a Software Engineering student at the University of Nebraska - Li
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg" width=60 alt="Gimp">
             </a>
             <a href="https://git-scm.com/">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width=80 alt="Git">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" width=80 alt="Git">
             </a>
             <a href="https://www.linux.org/">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=60 alt="Linux">

@@ -56,6 +56,26 @@ I am currently a Software Engineering student at the University of Nebraska - Li
     </tr>
 </table>
 
+### technology or tools I am familar with 
+<table align="center">
+    <tr>
+        <th>
+            <a href="https://www.gimp.org/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg" width=60 alt="Gimp">
+            </a>
+            <a href="https://git-scm.com/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width=80 alt="Git">
+            </a>
+            <a href="https://www.linux.org/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=60 alt="Linux">
+            </a>
+            <a href="https://www.microsoft.com/en-us/windows">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width=60 alt="Windows">
+            </a>
+        </th>
+    </tr>
+</table>
+
 <!--
 **ahamad2/ahamad2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

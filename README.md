@@ -22,6 +22,9 @@ I am currently a Software Engineering student at the University of Nebraska - Li
             <a href="https://www.w3.org/Style/CSS/Overview.en.html">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=60 alt="CSS">
             </a>
+            <a href="https://getbootstrap.com/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width=60 alt="Assembly">
+            </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=60 alt="HTML">
             </a>
@@ -31,7 +34,7 @@ I am currently a Software Engineering student at the University of Nebraska - Li
             <a href="https://www.oracle.com/java/technologies/">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width=60 alt="Java">
             </a>
-            <a href="https://en.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20(%2F%CB%88si%CB%90%2F,efficiently%20to%20typical%20machine%20instructions.">
+            <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=60 alt="C">
             </a>
             <a href="https://en.wikipedia.org/wiki/C++">

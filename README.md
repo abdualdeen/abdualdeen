@@ -6,7 +6,7 @@ I am currently a Software Engineering student at the University of Nebraska - Li
 * [LinkedIn](https://www.linkedin.com/in/abdullah-hamad-530a55257/)
 * [Resume](https://drive.google.com/file/d/1sIXq61oS_ZhjwDxb_AsBkpBKWlRYuw4p/view)
 
-### Programming langauges I am familar with
+### Programming langauges or libraries I am familar with
 <table align="center">
     <tr>
         <th>
@@ -16,6 +16,9 @@ I am currently a Software Engineering student at the University of Nebraska - Li
             <a href="https://www.php.net/">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width=60 alt="PHP">
             </a>
+            <a href="https://phalcon.io/en-us">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-original.svg" width=60 alt="PHP">
+            </a>
             <a href="https://www.javascript.com/">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=60 alt="JavaScript">
             </a>
@@ -24,6 +27,9 @@ I am currently a Software Engineering student at the University of Nebraska - Li
             </a>
             <a href="https://getbootstrap.com/">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width=60 alt="Assembly">
+            </a>
+            <a href="https://tailwindcss.com/">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width=60 alt="Assembly">
             </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=60 alt="HTML">

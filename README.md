@@ -5,6 +5,7 @@ I am currently a Software Engineering student at the University of Nebraska - Li
 ### Contact Information
 * [LinkedIn](https://www.linkedin.com/in/abdullah-hamad-530a55257/)
 * [Resume](https://drive.google.com/file/d/1sIXq61oS_ZhjwDxb_AsBkpBKWlRYuw4p/view)
+* [Personal Website](https://abdullahhamad.dev/)
 
 ### Programming langauges or libraries I am familar with
 <table align="center">

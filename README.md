@@ -4,7 +4,7 @@ I am a Software Engineer that graduated from the University of Nebraska - Lincol
 
 ### Contact Information
 * [LinkedIn](https://www.linkedin.com/in/abdullah-aldeen/)
-* [Resume](https://drive.google.com/file/d/1sIXq61oS_ZhjwDxb_AsBkpBKWlRYuw4p/view)
+* [Resume](https://drive.google.com/file/d/1Y2Ydd4HnlzLOtp2Ija_6kIP9DgV8zVaC/view)
 * [Personal Website](https://abdullahaldeen.dev/)
 
 ### Programming langauges or libraries I am familar with
@@ -36,7 +36,7 @@ I am a Software Engineer that graduated from the University of Nebraska - Lincol
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width=60 alt="Bootstrap">
             </a>
             <a href="https://tailwindcss.com/">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width=60 alt="TailwindCSS">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width=60 alt="TailwindCSS">
             </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=60 alt="HTML">
